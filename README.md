@@ -11,3 +11,7 @@ We will need to iterate through the array `nums[]` until a sum of two indices ad
 ## Libraries
 
 Import `java.util.Arrays` to use toString() to return the indices in a string.
+
+## Runtime
+
+O(n^2) because it contains 1 nested for loop.
